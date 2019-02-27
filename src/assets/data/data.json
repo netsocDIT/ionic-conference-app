@@ -381,8 +381,7 @@
     {
       "name": "Sandymount YMCA",
       "lat": 53.330457,
-      "lng": -6.219832,
-      "center": true
+      "lng": -6.219832
     },
     {
       "name": "Aungier Street YMCA",
@@ -390,9 +389,35 @@
       "lng": -6.266079
     },
     {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
+      "name": "St Catherines Sport's Hall",
+      "lat": 53.339241,
+      "lng": -6.286498
+    },
+    {
+      "name": "DCU",
+      "lat": 53.370287,
+      "lng": -6.254277
+    },
+    {
+      "name": "UCD",
+      "lat": 53.307787,
+      "lng": -6.223886
+    },
+    {
+      "name": "Kevin St Fit2Go",
+      "lat": 53.336910,
+      "lng": -6.267442
+    },
+    {
+      "name": "Liffey Trust Studios",
+      "lat": 53.349846,
+      "lng": -6.230007
+    },
+    {
+      "name": "National Stadium",
+      "lat": 53.330894,
+      "lng": -6.280368,
+      "center": true
     }
   ]
 }
