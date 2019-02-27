@@ -1,4 +1,4 @@
-import { AfterViewInit, Component, ViewEncapsulation } from '@angular/core';
+import { AfterViewInit, Component, Input, ViewEncapsulation } from '@angular/core';
 import { ModalController } from '@ionic/angular';
 
 import { ConferenceData } from '../../providers/conference-data';
@@ -13,6 +13,7 @@ export class ScheduleFilterPage implements AfterViewInit {
 
   tracks: {name: string, isChecked: boolean}[] = [];
 
+  @Input() excludedTracks;
   constructor(
     public confData: ConferenceData,
     public modalCtrl: ModalController
@@ -21,7 +22,7 @@ export class ScheduleFilterPage implements AfterViewInit {
   // TODO use the ionViewDidEnter event
   ngAfterViewInit() {
     // passed in array of track names that should be excluded (unchecked)
-    const excludedTrackNames = []; // this.navParams.data.excludedTracks;
+    const excludedTrackNames = this.excludedTracks; // this.navParams.data.excludedTracks;
 
     this.confData.getTracks().subscribe((trackNames: string[]) => {
       trackNames.forEach(trackName => {
