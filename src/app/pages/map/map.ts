@@ -21,7 +21,7 @@ export class MapPage implements AfterViewInit {
 
       const map = new googleMaps.Map(mapEle, {
         center: mapData.find((d: any) => d.center),
-        zoom: 16
+        zoom: 14
       });
 
       mapData.forEach((markerData: any) => {
