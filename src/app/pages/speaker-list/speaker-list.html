@@ -31,11 +31,26 @@
               </ion-list>
             </ion-card-content>
 
+            <ion-row no-padding justify-content-center>
               <ion-col text-left size="4">
                 <ion-button fill="clear" size="small" color="primary" (click)="goToSpeakerTwitter(speaker)">
                   <ion-icon name="logo-facebook" slot="start"></ion-icon>
                   Tweet
                 </ion-button>
+              </ion-col>
+              <ion-col text-center size="4">
+                <ion-button fill="clear" size="small" color="primary" (click)="openSpeakerShare(speaker)">
+                  <ion-icon name="share-alt" slot="start"></ion-icon>
+                  Share
+                </ion-button>
+              </ion-col>
+              <ion-col text-right size="4">
+                <ion-button fill="clear" size="small" color="primary" (click)="openContact(speaker)">
+                  <ion-icon name="chatboxes" slot="start"></ion-icon>
+                  Contact
+                </ion-button>
+              </ion-col>
+            </ion-row>
           </ion-card>
         </ion-col>
       </ion-row>
