@@ -234,135 +234,127 @@
 
   "speakers": [
     {
-      "name": "Burt Bear",
-      "profilePic": "/assets/img/speakers/bear.jpg",
+      "name": "Trinity Dance Soc",
+      "profilePic": "/assets/img/TrinityDance.png",
       "twitter": "ionicframework",
-      "about": "Burt is a Bear.",
-      "location": "Everywhere",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Trinity Dance Society.",
+      "location": "Trinity",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
       "id": "1"
     },
     {
-      "name": "Charlie Cheetah",
-      "profilePic": "/assets/img/speakers/cheetah.jpg",
+      "name": "Maynooth Dance Soc",
+      "profilePic": "/assets/img/MaynoothDance.jpg",
       "twitter": "ionicframework",
-      "about": "Charlie is a Cheetah.",
+      "facebook":"https://www.facebook.com/maynooth.dance.soc/",
+      "about": "Maynooth Dance Society.",
       "location": "Everywhere",
-      "email": "charlie@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
       "id": "2"
     },
     {
-      "name": "Donald Duck",
-      "profilePic": "/assets/img/speakers/duck.jpg",
+      "name": "UCD Dance Soc",
+      "profilePic": "/assets/img/UCDDance.png",
       "twitter": "ionicframework",
-      "about": "Donald is a Duck.",
+      "facebook":"https://www.facebook.com/ucddancesoc/",
+      "about": "UCD Dance Society.",
       "location": "Everywhere",
-      "email": "donald@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
       "id": "3"
     },
     {
-      "name": "Eva Eagle",
-      "profilePic": "/assets/img/speakers/eagle.jpg",
+      "name": "RSCI Dance Soc",
+      "profilePic": "/assets/img/RSCIDance.jpg",
       "twitter": "ionicframework",
-      "about": "Eva is an Eagle.",
+      "facebook":"https://www.facebook.com/RSCIDanceTeam/",
+      "about": "RSCI Dance Soc.",
       "location": "Everywhere",
-      "email": "eva@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "4"
+      "id": "3"
     },
     {
-      "name": "Ellie Elephant",
-      "profilePic": "/assets/img/speakers/elephant.jpg",
+      "name": "DCU Dance Soc",
+      "profilePic": "/assets/img/DCUDance.jpg",
       "twitter": "ionicframework",
-      "about": "Ellie is an Elephant.",
+      "facebook":"https://www.facebook.com/DCUDance/",
+      "about": "DCU Dance Society.",
       "location": "Everywhere",
-      "email": "ellie@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "5"
+      "id": "3"
     },
     {
-      "name": "Gino Giraffe",
-      "profilePic": "/assets/img/speakers/giraffe.jpg",
+      "name": "UCC Dance Society",
+      "profilePic": "/assets/img/UCCDance.jpg",
       "twitter": "ionicframework",
-      "about": "Gino is a Giraffe.",
+      "facebook":"https://www.facebook.com/ucc.dance/",
+      "about": "UCC Dance Society.",
       "location": "Everywhere",
-      "email": "gino@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "6"
+      "id": "3"
     },
     {
-      "name": "Isabella Iguana",
-      "profilePic": "/assets/img/speakers/iguana.jpg",
+      "name": "NUIG Dance Soc",
+      "profilePic": "/assets/img/NUIGDance.jpg",
       "twitter": "ionicframework",
-      "about": "Isabella is an Iguana.",
+      "facebook":"https://www.facebook.com/dancesoc.nuig/",
+      "about": "NUIG Dance Society.",
       "location": "Everywhere",
-      "email": "isabella@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "7"
+      "id": "3"
+    },    
+    {
+      "name": "UL Dance Soc",
+      "profilePic": "/assets/img/ULDance.png",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/OfficialDanceUL/",
+      "about": "UL Dance Society.",
+      "location": "Everywhere",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
     },
     {
-      "name": "Karl Kitten",
-      "profilePic": "/assets/img/speakers/kitten.jpg",
+      "name": "Sligo Dance Soc",
+      "profilePic": "/assets/img/SLIGODance.png",
       "twitter": "ionicframework",
-      "about": "Karl is a Kitten.",
+      "facebook":"https://www.facebook.com/itsligodancesociety/",
+      "about": "Sligo Dance Society.",
       "location": "Everywhere",
-      "email": "karl@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "8"
+      "id": "3"
     },
     {
-      "name": "Lionel Lion",
-      "profilePic": "/assets/img/speakers/lion.jpg",
+      "name": "Mary I Dance Soc",
+      "profilePic": "/assets/img/MARYIDance.jpg",
       "twitter": "ionicframework",
-      "about": "Lionel is a Lion.",
+      "facebook":"https://www.facebook.com/maryidance/",
+      "about": "Mary I Dance Society.",
       "location": "Everywhere",
-      "email": "lionel@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "9"
+      "id": "3"
     },
     {
-      "name": "Molly Mouse",
-      "profilePic": "/assets/img/speakers/mouse.jpg",
+      "name": "CIT Dance Soc",
+      "profilePic": "/assets/CITDance.jpg",
       "twitter": "ionicframework",
-      "about": "Molly is a Mouse.",
+      "facebook":"https://www.facebook.com/citdancesoc/",
+      "about": "CIT Dance Society.",
       "location": "Everywhere",
-      "email": "molly@example.com",
+      "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "10"
-    },
-    {
-      "name": "Paul Puppy",
-      "profilePic": "/assets/img/speakers/puppy.jpg",
-      "twitter": "ionicframework",
-      "about": "Paul is a Puppy.",
-      "location": "Everywhere",
-      "email": "paul@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "11"
-    },
-    {
-      "name": "Rachel Rabbit",
-      "profilePic": "/assets/img/speakers/rabbit.jpg",
-      "twitter": "ionicframework",
-      "about": "Rachel is a Rabbit.",
-      "location": "Everywhere",
-      "email": "rachel@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "12"
-    },
-    {
-      "name": "Ted Turtle",
-      "profilePic": "/assets/img/speakers/turtle.jpg",
-      "twitter": "ionicframework",
-      "about": "Ted is a Turtle.",
-      "location": "Everywhere",
-      "email": "ted@example.com",
-      "phone": "+1-541-754-3010",
-      "id": "13"
+      "id": "3"
     }
+    
   ],
 
   "map": [
