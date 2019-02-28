@@ -55,6 +55,10 @@ export class SessionDetailPage {
       }
     });
   }
+
+  mentionSpeakerTwitter(speaker: any) {
+    window.open(speaker.facebook, '_blank');
+}
   ionViewDidEnter() {
     this.defaultHref = `/app/tabs/schedule`;
   }
