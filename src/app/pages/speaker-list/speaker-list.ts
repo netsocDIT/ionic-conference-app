@@ -25,11 +25,13 @@ export class SpeakerListPage {
       this.speakers = speakers;
     });
   }
-}
 
-mentionSpeakerTwitter(speaker: any) {
-  window.open(speaker.facebook, '_blank');
-}
+  goToSpeakerTwitter(speaker: any) {
+    this.inAppBrowser.create(
+      speaker.facebook,
+      '_blank'
+    );
+  }
 
   async openSpeakerShare(speaker: any) {
     const actionSheet = await this.actionSheetCtrl.create({
