@@ -8,7 +8,6 @@
 </ion-header>
 
 <ion-content>
-  <ng-container *ngIf="(session$ | async) as session">
     <div>
       <h1>{{session.name}}</h1>
       <div text-center *ngFor="let speaker of session.speakers">
@@ -28,5 +27,4 @@
       <p>{{session.location}}</p>
       <p>{{session.description}}</p>
     </div>
-</ng-container>
 </ion-content>
