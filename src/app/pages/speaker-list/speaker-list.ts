@@ -25,11 +25,11 @@ export class SpeakerListPage {
       this.speakers = speakers;
     });
   }
-
-  mentionSpeakerTwitter(speaker: any) {
-    window.open(speaker.facebook, '_blank');
 }
-  }
+
+mentionSpeakerTwitter(speaker: any) {
+  window.open(speaker.facebook, '_blank');
+}
 
   async openSpeakerShare(speaker: any) {
     const actionSheet = await this.actionSheetCtrl.create({
