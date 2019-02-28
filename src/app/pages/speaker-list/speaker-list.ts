@@ -26,11 +26,9 @@ export class SpeakerListPage {
     });
   }
 
-  goToSpeakerTwitter(speaker: any) {
-    this.inAppBrowser.create(
-      `https://twitter.com/${speaker.twitter}`,
-      '_blank'
-    );
+  mentionSpeakerTwitter(speaker: any) {
+    window.open(speaker.facebook, '_blank');
+}
   }
 
   async openSpeakerShare(speaker: any) {

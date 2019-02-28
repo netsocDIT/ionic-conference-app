@@ -16,6 +16,10 @@ export class SpeakerDetailPage {
     private route: ActivatedRoute
   ) {}
 
+  mentionSpeakerTwitter(speaker: any) {
+    window.open(speaker.facebook, '_blank');
+}
+
   ionViewWillEnter() {
     this.dataProvider.load().subscribe((data: any) => {
       const speakerId = this.route.snapshot.paramMap.get('speakerId');
