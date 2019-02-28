@@ -28,7 +28,7 @@ export class SpeakerListPage {
 
   goToSpeakerTwitter(speaker: any) {
     this.inAppBrowser.create(
-      speaker.facebook,
+      `https://twitter.com/${speaker.twitter}`,
       '_blank'
     );
   }
