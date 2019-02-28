@@ -13,7 +13,7 @@
               "speakerNames": ["Trinity Dance Soc"],
               "timeStart": "9:00 am",
               "timeEnd": "9:50 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "1"
             },
             {
@@ -23,7 +23,7 @@
               "speakerNames": ["UL Dance Soc"],
               "timeStart": "9:00 am",
               "timeEnd": "11:00 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "2"
             },
             {
@@ -33,7 +33,7 @@
               "speakerNames": ["RSCI Dance Soc"],
               "timeStart": "9:00 am",
               "timeEnd": "11:00 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "3"
             },
             {
@@ -43,7 +43,7 @@
               "speakerNames": ["Maynooth Dance Soc"],
               "timeStart": "9:55 am",
               "timeEnd": "10:45 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "4"
             },
             {
@@ -53,7 +53,7 @@
               "speakerNames": ["UCD Dance Soc"],
               "timeStart": "10:50 am",
               "timeEnd": "11:40 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "5"
             }
           ]
@@ -68,7 +68,7 @@
               "speakerNames": ["Sligo Dance Soc"],
               "timeStart": "11:00 am",
               "timeEnd": "1:00 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "6"
             },
             {
@@ -78,7 +78,7 @@
               "speakerNames": ["Trinity Dance Soc"],
               "timeStart": "11:00 am",
               "timeEnd": "1:00 pm",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "7"
             },
             {
@@ -88,7 +88,7 @@
               "speakerNames": ["RSCI Dance Soc"],
               "timeStart": "11:45 am",
               "timeEnd": "12:20 am",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "8"
             },
             {
@@ -98,7 +98,7 @@
               "speakerNames": ["DCU Dance Soc"],
               "timeStart": "12:25 am",
               "timeEnd": "1:15 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "9"
             }
           ]
@@ -113,7 +113,7 @@
               "speakerNames": ["UCC Dance Soc"],
               "timeStart": "1:20 PM",
               "timeEnd": "2:10 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "10"
             }
           ]
@@ -128,7 +128,7 @@
               "speakerNames": ["Maynooth Dance Soc"],
               "timeStart": "2:00 pm",
               "timeEnd": "4:00 pm",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "11"
             },
             {
@@ -138,7 +138,7 @@
               "speakerNames": ["Mary I Dance Soc"],
               "timeStart": "2:00 PM",
               "timeEnd": "3:30 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "12"
             },
             {
@@ -148,7 +148,7 @@
               "speakerNames": ["CIT Dance Soc"],
               "timeStart": "2:00 PM",
               "timeEnd": "4:00 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "13"
             },
             {
@@ -158,7 +158,7 @@
               "speakerNames": ["NUIG Dance Soc"],
               "timeStart": "2:15 PM",
               "timeEnd": "3:05 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "14"
             },
             {
@@ -168,7 +168,7 @@
               "speakerNames": ["UL Dance Soc"],
               "timeStart": "3:10 PM",
               "timeEnd": "3:30 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "16"
             },
             {
@@ -178,7 +178,7 @@
               "speakerNames": ["Sligo Dance Soc"],
               "timeStart": "3:35 PM",
               "timeEnd": "3:45 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "15"
             },
             {
@@ -188,7 +188,7 @@
               "speakerNames": ["NUIG Dance Soc"],
               "timeStart": "3:30 PM",
               "timeEnd": "5:30 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "17"
             },
             {
@@ -198,7 +198,7 @@
               "speakerNames": ["Mary I Dance Soc"],
               "timeStart": "3:50 PM",
               "timeEnd": "4:10 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "18"
             }
           ]
@@ -213,7 +213,7 @@
               "speakerNames": ["CIT Dance Soc"],
               "timeStart": "4:15 PM",
               "timeEnd": "4:45 PM",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "19"
             },
             {
@@ -223,7 +223,7 @@
               "speakerNames": ["UCC Dance Soc"],
               "timeStart": "TBC",
               "timeEnd": "TBC",
-              "tracks": ["Day1"],
+              "tracks": ["Day 1"],
               "id": "20"
             }
           ]
