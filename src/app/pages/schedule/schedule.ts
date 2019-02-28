@@ -120,6 +120,8 @@ export class SchedulePage implements OnInit {
     await alert.present();
   }
 
+  
+
   async openSocial(network: string, fab: HTMLIonFabElement) {
     const loading = await this.loadingCtrl.create({
       message: `Posting to ${network}`,
