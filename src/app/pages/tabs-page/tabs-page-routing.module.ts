@@ -40,6 +40,23 @@ const routes: Routes = [
         ]
       },
       {
+        path: 'teams',
+        children: [
+          {
+            path: '',
+            loadChildren: '../practice-list/practice-list.module#PracticeListModule'
+          },
+          {
+            path: 'session/:sessionId',
+            loadChildren: '../session-detail/session-detail.module#SessionDetailModule'
+          },
+          {
+            path: 'speaker-details/:speakerId',
+            loadChildren: '../speaker-detail/speaker-detail.module#SpeakerDetailModule'
+          }
+        ]
+      },
+      {
         path: 'map',
         children: [
           {
