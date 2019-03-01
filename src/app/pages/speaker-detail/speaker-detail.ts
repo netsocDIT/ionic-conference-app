@@ -17,7 +17,7 @@ export class SpeakerDetailPage {
   ) {}
 
   mentionSpeakerTwitter(speaker: any) {
-    window.open(speaker.facebook, '_blank');
+    window.open(speaker.facebook, '_system', 'location=yes');
 }
 
   ionViewWillEnter() {
