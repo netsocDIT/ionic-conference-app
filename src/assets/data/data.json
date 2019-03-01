@@ -232,6 +232,132 @@
     }
   ],
 
+  "judges":
+  [
+    {
+      "name": "Jack Quinn",
+      "profilePic": "/assets/img/jack.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Jack started dancing at six years of age with O'Shea School of Irish dancing in Dublin. During his competitive career Jack won 7 World Championships, as well as other major competitions like the All Ireland, Great Britain and All Scotland Championships. Since finishing his competitive career Jack has been touring with both Riverdance and Heartbeat of Home. He has also performed alongside both the Chieftains and Prodijig. Jack is very excited to be judging this years Intervarsities competition and would like to wish all the competitors the very best of luck.",
+      "location": "IrishDance",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "1"
+    },
+    {
+      "name": "Zoe Talbot",
+      "profilePic": "/assets/img/zoe.png",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Zoe has over 18 years of stage-school experience having trained with the Billie Barry Stage School specialising in Tap, Jazz, Modern and Ballet. She is a graduate of Musical Theatre with IMT (Irish College of Musical Theatre) in The DIT Conservatory of Music Rathmines, and is also a qualified personal trainer. Zoe also studies drama with Visions drama school(Mary Murray), recent TV appearances include ‘Fake tan girl’ in the Boots Health & Beauty campaign and the TV3 soap 'Red Rock' as Caitlin O Malley. Theatrical appearances include Cinderella at the Everyman theatre Cork, ‘Laurie’ in Oklahoma at the O’Reilly theatre Dublin, ‘Adele’ in Jane Eyre at the Gate Theatre Dublin, Cinderella, Beauty & the Beast, Mother Goose, Aladdin, Jack & the beanstalk at the Gaiety Theatre, Beauty & the Beast & Cinderella at University of Limerick, Annie at the Cork Opera House. Zoe is also a multiple World Champion Irish dancer, dancing for the Lee-Byrne Academy. She spent the summers of 2016/17 performing in the Cork Opera house with ‘Prodijig the Revolution’. She had further performances with them in Hong Kong, LA, and then in Galway as part of the TG4 ‘20th anniversary’ televised celebrations, and the highlight appearing on ‘Tonight at the London Palladium’. Zoe is also a dancer with Riverdance and the dance troupe ‘Damhsa’ and performs regularly in Ireland and abroad at prestigious Corporate events.",
+      "location": "IrishDance",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "2"
+    },
+    {
+      "name": "Meadhbh Kennedy",
+      "profilePic": "/assets/img/mea.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Meadhbh Kennedy from Tara, Co. Meath began dancing at the age of 4. She competed successfully with the O’Shea School of Irish Dance at the World and All Ireland Championships and became Leinster Champion in 2014. Meadhbh began dancing professionally in 2010 around Dublin and Ireland. Since 2015 Meadhbh has toured Europe, China, North and South America with numerous dance shows, including Riverdance, Prodijig: The Revolution, Irish Celtic and Celtic Legends. A highlight would be performing in the London Palladium on the West End with Heartbeat of Home in February 2019.",
+      "location": "IrishDance",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "3"
+    },
+    {
+      "name": "Neil O'Brien",
+      "profilePic": "/assets/img/neil.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Neil has trained in Broadway Dance Centre, NYC where he studied under the mentorship of Broadway choreographers David Marquez and Josh Bergasse. He was a member of The Chase Brock Experience and SLC where he created new works shown at City Centre, Alvin Ailey Theatre, Cedar Lake and The Joyce, all in New York. He has toured Internationally with cruise ships and stage shows such as Shake, Rattle and Roll, Dancing Queen, Carousel and West Side Story. Neil is a member of Ponydance, and has performed their shows ‘Ponybois’ ‘Where did it all go Right’ ‘Pony Panto’ and ‘Anybody Waitin’ all over the world, his favourite being at HIFA festival in Zimbabwe. Choreography credits - Polly and The Magic Lamp (Olympia Theatre), Beauty and The Beast, Sleeping Beauty, and Cinderella (Cork Opera House) Jesus Christ Superstar (BPSA) ’Starting Point(e) and “Miles Away Beside You’ (Smock Alley), ’Holding On’(Axis Theatre), ‘SINNEAD One night only…for two nights’ (MAC) ‘Swing Cats’ (Olympia Theatre), ‘The Golden Era” ‘Winter Wonderland”(Mansion House ), Grease (Gaiety Theatre),’In The Heights’ (Portland, OR) Showtime (Brown Thomas) Music Videos - Derek Ryan ‘Hayley Jo’, Miss Kate ‘Trapped in Love’, ‘Safe Cross Code’ Road Safety Authority.. As a teacher, Neil has taught workshops throughout Ireland, UK, Mexico and USA. He was also on faculty for The Joffrey Summer Intensive,The Pulse Convention, USA and Perform, Ireland. He has judged numerous dance competitions throughout Ireland and the UK such as 5,6,7,8 Elite Dance, Art in Motion, Spring Elite Classic and the All Ireland Inter- Varsity Competition Instagram - @neilobriendance",
+      "location": "Contemporary",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "4"
+    },
+    {
+      "name": "Simone O'Toole",
+      "profilePic": "/assets/img/simone.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Simone O’ Toole was born and raised in Dublin. She began her dance training in Westside Performing Arts training in ballet, hip hop, jazz and musical theatre. Eager to pursue her passion for contemporary urban dance and choreography, she moved to The Netherlands to study at Fontys Hogeschool voor de Kunsten(Fontys Dance Academy) in the Contemporary Urban department intensely working on the fusion between contemporary and hip hop dance styles. Simone has worked with many choreographers such as Guillherme Miotto(Holland), Fremdkorper(Holland) and Catherine Young(Ireland).She is currently based between the Netherlands and Ireland teaching workshops and developing her own artistic vision.",
+      "location": "Contemporary",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "5"
+    }, 
+    {
+      "name": "Liv O'Donoghue",
+      "profilePic": "/assets/img/liv.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Liv O'Donoghue was a member of Dublin Youth Dance Company before heading to the UK to undertake training at the Northern School of Contemporary Dance. She graduated in 2007 with a First Class Honours and the Outstanding Achievement Award for performance. Since then, she has performed extensively across dance, theatre and opera, touring widely across Europe, the US, Asia and Australia. She has been the recipient of numerous Arts Council bursaries and awards. In 2019, Liv will present her own work on tour in Ireland and New York, as well as touring with the productions to the UK, Spain and China.",
+      "location": "Contemporary",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "6"
+    },
+    {
+      "name": "Ian Harris",
+      "profilePic": "/assets/img/ian.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Ian started dancing at the age of 7 in multiple styles of dance with Dance Fusion and KidKast. At 16 he attended Inchicore Dance College to further his training in ballet, tap, jazz and contemporary. At 17 Ian travelled to his first international camp in Poland known as FNF where he took classes from top USA Choreographers. Over the years he has continuously travelled around the world to take classes and compete in events such as World of Dance (Holland and Belgium) and represebt Irelabd in World Hiphop Championship (Las Vegas) with SoLittle Crew. In 2013, he joined the Richboyz project where since has gone to Italy and Valencia to do a show alongside other members where ue can co-lead in one and lead in another. Ian also danced on the 2013 X Factor week 1 and finale with Luke Friend, Nicholas McDonald and Sam Bailey. In 2015 he join the Irish Entertainment Group XOD and danced for them in many evemts as well as the Man in the Mirror Tribute Show. In 2017 and 2018 Ian performed as ensemble in the Gaiety Pantomime. Ian now teaches all around the world as well as at Award Winning FLY Dance Studio Dublin. ",
+      "location": "Hip Hop",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "7"
+    },
+    {
+      "name": "Jessie O'Reilly",
+      "profilePic": "/assets/img/jessie.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Jessie O’Reilly is a dancer from Dublin who has been training in the hip hop styles since she was a kid, winning many all Ireland titles and appearing on various popular TV shows before moving to London to seek more training and opportunities. Since moving 5 years ago she has been competing in battles, training and judging events across Europe.",
+      "location": "Hip Hop",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "8"
+    },
+    {
+      "name": "Alex O'Neil",
+      "profilePic": "/assets/img/alex.png",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Alex is a member of internationally renowned dance crews The Legion and Seventh Empire. He specializes in Hip-Hop, House, Popping, Krump and Commerical. His professional dance training began at the College of Dance and within a few weeks his dance career began when he became one of 8 Hip-Hop dancers for a dance crew for a RTE T.V show Supercrew (2010-2011). He Represented Ireland at the World Hip-Hop Dance Championships in Las Vegas (2012). He was a Hip-Hop guest soloist in Monica Loughman's annual production of The Nutcracker(2012-2015). Featured in Mrs Browns boys Da Movie (2014) and the Bollywood smash hit Ek Tha Tiger (2012). Alex has done feature work with Red bull, RTE and Apple. Has also worked with the likes of Heineken, Ryanair, Facebook, Google, Vodafone and Orchard Theives to name a few. He was on the Michael Jackson Man In The Mirror Tribute tour (2014-2016). Performed in Centenary in the Bord Gais Theatre which aired on RTE 1 (2016) and performed in Laochra in Croke Park which Aired on TG4 (2016). He Performed in Gaiety Theatre's Robin Hood and His Merry Men. (2016) and Rapunzel (2017). Winner of the Industry Event Awards (2016 & 2017). He performed at Electric Picnic (2017). He Performed at the 3 Arena as a main act for Junk Kouture (2017 & 2018) and performed alongside the world famous music group Rudimental, which was choreographed by international choreographer Kyle Hanagami (2017). Earlier this year Alex finished working on the 5th season of Vikings as a Dancer/Feature. Alex danced and more importantly was the Choreographer for the 80's & 90's Disco event in the 3 Arena earlier this year, which included the likes of Ace Of Base, 2 Unlimited and Haddaway plus many more. He is also the lead Actor/Dancer in the new Lifestyle Sports Christmas Advert for 2018. He worked on the Irish Touring Panto Production of Sleeping Beauty (2018-2019). He is also featured in the new Ireland's Got Talent Advert for 2019. Alex is the proud Irish Ambassador for Krump Saves Lives World Organisation. Alex also has a passion for making short dance films for his youtube channel which have been seen in over 190 countries.",
+      "location": "Hip Hop",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "9"
+    },
+    {
+      "name": "Tara O'Halloran",
+      "profilePic": "/assets/img/tara.png",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Tara has been dancing from a very young age and has trained in the disciplines of Jazz and Contemporary for many years. She has appeared in countless performances all over Ireland including various of Gaiety Pantomimes. We are very excited to have her with us for Inters 2019.",
+      "location": "Hip Hop",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "10"
+    },
+    {
+      "name": "Bernadette O'Rourke",
+      "profilePic": "/assets/img/bern.jpg",
+      "twitter": "ionicframework",
+      "facebook":"https://www.facebook.com/DUDanceSoc/",
+      "about": "Bernadette O Rourke – Artistic Director of The College of Dance Bernadette trained at The College of Dance and continued her training at Performers College UK. She has had a long a varied performance career and for over 20 years teaching she has been fully committed to sharing her knowledge and skills to the next generation of performers. With a holistic approach to her teaching, she ensures to create a positive learning environment that is inclusive for all, where equality and diversity is recognised, understood and respected. Adhering to and employing the principles of safe dance practice in all areas of her teaching. Safe dance practice is an all-rounded approach to the art and science of dance that supports optimum physical and emotional wellbeing of all dancers in their dance training and education. Theatre & Film credits include, Laochra GAA 1916 Commemoration, Aida, Lyric Opera Productions, Ejeeit of love, Westside Story, Tribute to Kander and Ebb, Black Sunrise, Broadway to Hollywood, National Concert Hall. Snow white and the Seven Dwarfs, Cinderella, Gaiety Theatre, Puss-n-Boots. Irish Modern Dance Theatre, Penny Dreadful Showtime, Mrs Browns Boys D’Movie, Pump up my Dance, Jazz Master, Ella Enchanted, Michael Collins, My Left Foot.",
+      "location": "Hip Hop",
+      "email": "burt@example.com",
+      "phone": "+1-541-754-3010",
+      "id": "11"
+    }
+
+  ],
+
   "speakers": [
     {
       "name": "Trinity Dance Soc",
@@ -275,7 +401,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "4"
     },
     {
       "name": "DCU Dance Soc",
@@ -286,7 +412,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "5"
     },
     {
       "name": "UCC Dance Soc",
@@ -297,7 +423,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "6"
     },
     {
       "name": "NUIG Dance Soc",
@@ -308,7 +434,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "7"
     },    
     {
       "name": "UL Dance Soc",
@@ -319,7 +445,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "8"
     },
     {
       "name": "Sligo Dance Soc",
@@ -330,7 +456,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "9"
     },
     {
       "name": "Mary I Dance Soc",
@@ -341,7 +467,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "10"
     },
     {
       "name": "CIT Dance Soc",
@@ -352,7 +478,7 @@
       "location": "Everywhere",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
-      "id": "3"
+      "id": "11"
     }
     
   ],

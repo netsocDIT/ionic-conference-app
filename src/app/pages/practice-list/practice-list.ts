@@ -21,7 +21,7 @@ export class PracticeListPage {
   ) {}
 
   ionViewDidEnter() {
-    this.confData.getSpeakers().subscribe((speakers: any[]) => {
+    this.confData.getJudges().subscribe((speakers: any[]) => {
       this.speakers = speakers;
     });
   }

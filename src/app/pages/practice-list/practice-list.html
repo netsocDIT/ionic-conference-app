@@ -20,14 +20,16 @@
             </ion-card-header>
 
             <ion-card-content>
+
+              <ion-item routerLink="/app/tabs/teams/speaker-details/{{speaker.id}}">
+                <h3>About {{speaker.name}}</h3>
+              </ion-item>
+
               <ion-list>
                 <ion-item *ngFor="let session of speaker.sessions" routerLink="/app/tabs/speakers/session/{{session.id}}">
                   <h3>{{session.name}}</h3>
                 </ion-item>
 
-                <ion-item routerLink="/app/tabs/speakers/speaker-details/{{speaker.id}}">
-                  <h3>About {{speaker.name}}</h3>
-                </ion-item>
               </ion-list>
             </ion-card-content>
           </ion-card>

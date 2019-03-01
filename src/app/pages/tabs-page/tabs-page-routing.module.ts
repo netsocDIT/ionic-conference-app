@@ -52,7 +52,7 @@ const routes: Routes = [
           },
           {
             path: 'speaker-details/:speakerId',
-            loadChildren: '../speaker-detail/speaker-detail.module#SpeakerDetailModule'
+            loadChildren: '../judge-detail/judge-detail.module#JudgeDetailModule'
           }
         ]
       },
