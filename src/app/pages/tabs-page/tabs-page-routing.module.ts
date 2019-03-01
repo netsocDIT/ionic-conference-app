@@ -18,7 +18,7 @@ const routes: Routes = [
           },
           {
             path: 'session/:sessionId',
-            loadChildren: '../session-detail/session-detail.module#SessionDetailModule'
+            loadChildren: '../practice-detail/practice-detail.module#PracticeDetailModule'
           }
         ]
       },
@@ -44,7 +44,7 @@ const routes: Routes = [
           },
           {
             path: 'session/:sessionId',
-            loadChildren: '../session-detail/session-detail.module#SessionDetailModule'
+            loadChildren: '../practice-detail/practice-detail.module#PracticeDetailModule'
           },
           {
             path: 'speaker-details/:speakerId',

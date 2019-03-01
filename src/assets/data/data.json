@@ -339,7 +339,7 @@
       "twitter": "ionicframework",
       "facebook":"https://www.facebook.com/DUDanceSoc/",
       "about": "Tara has been dancing from a very young age and has trained in the disciplines of Jazz and Contemporary for many years. She has appeared in countless performances all over Ireland including various of Gaiety Pantomimes. We are very excited to have her with us for Inters 2019.",
-      "location": "Hip Hop",
+      "location": "Jazz",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
       "id": "10"
@@ -350,12 +350,140 @@
       "twitter": "ionicframework",
       "facebook":"https://www.facebook.com/DUDanceSoc/",
       "about": "Bernadette O Rourke – Artistic Director of The College of Dance Bernadette trained at The College of Dance and continued her training at Performers College UK. She has had a long a varied performance career and for over 20 years teaching she has been fully committed to sharing her knowledge and skills to the next generation of performers. With a holistic approach to her teaching, she ensures to create a positive learning environment that is inclusive for all, where equality and diversity is recognised, understood and respected. Adhering to and employing the principles of safe dance practice in all areas of her teaching. Safe dance practice is an all-rounded approach to the art and science of dance that supports optimum physical and emotional wellbeing of all dancers in their dance training and education. Theatre & Film credits include, Laochra GAA 1916 Commemoration, Aida, Lyric Opera Productions, Ejeeit of love, Westside Story, Tribute to Kander and Ebb, Black Sunrise, Broadway to Hollywood, National Concert Hall. Snow white and the Seven Dwarfs, Cinderella, Gaiety Theatre, Puss-n-Boots. Irish Modern Dance Theatre, Penny Dreadful Showtime, Mrs Browns Boys D’Movie, Pump up my Dance, Jazz Master, Ella Enchanted, Michael Collins, My Left Foot.",
-      "location": "Hip Hop",
+      "location": "Jazz",
       "email": "burt@example.com",
       "phone": "+1-541-754-3010",
       "id": "11"
     }
 
+  ],
+
+  "competition": [
+    {
+      "date": "2019-03-06",
+      "groups": [
+        {
+          "time": "8:30 am",
+          "sessions": [
+            {
+              "name": "Doors Open",
+              "location": "National Stadium",
+              "description": "",
+              "speakerNames": [],
+              "timeStart": "8:30 am",
+              "timeEnd": "9:00 am",
+              "tracks": ["Day1"],
+              "id": "1"
+            }
+          ]
+        },
+        {
+          "time": "9:00 am",
+          "sessions": [
+            {
+              "name": "Irish Dance",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": ["Jack Quinn", "Zoe Talbot", "Meadhbh Kennedy" ],
+              "timeStart": "9:00 am",
+              "timeEnd": "10:00 am",
+              "tracks": ["Day1"],
+              "id": "2"
+            }
+          ]
+        },
+        {
+          "time": "10:00 am",
+          "sessions": [
+            {
+              "name": "Contemporary Dance",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": ["Neil O'Brien", "Simone O'Toole", "Liv O'Donoghue" ],
+              "timeStart": "10:00 am",
+              "timeEnd": "11:45 am",
+              "tracks": ["Day1"],
+              "id": "3"
+            }
+          ]
+        },
+        {
+          "time": "11:45 am",
+          "sessions": [
+            {
+              "name": "Jazz Dance",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": ["Bernadette O'Rourke", "Tara O'Halloran", "Neil O'Brien" ],
+              "timeStart": "11:45 am",
+              "timeEnd": "1:00 pm",
+              "tracks": ["Day1"],
+              "id": "4"
+            }
+          ]
+        },
+        {
+          "time": "1:00 pm",
+          "sessions": [
+            {
+              "name": "Lunch",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": [],
+              "timeStart": "1:00 pm",
+              "timeEnd": "1:45 pm",
+              "tracks": ["Day1"],
+              "id": "5"
+            }
+          ]
+        },
+        {
+          "time": "1:45 pm",
+          "sessions": [
+            {
+              "name": "Hip Hop",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": ["Ian Harris", "Jessie O'Reilly", "Alex O'Neil" ],
+              "timeStart": "1:45 pm",
+              "timeEnd": "3:45 pm",
+              "tracks": ["Day1"],
+              "id": "6"
+            }
+          ]
+        },
+        {
+          "time": "3:45 pm",
+          "sessions": [
+            {
+              "name": "Mixed Piece",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": [],
+              "timeStart": "3:45 pm",
+              "timeEnd": "5:15 pm",
+              "tracks": ["Day1"],
+              "id": "7"
+            }
+          ]
+        },
+        {
+          "time": "5:15 pm",
+          "sessions": [
+            {
+              "name": "Results",
+              "location": "National Stadium",
+              "description": " ",
+              "speakerNames": [],
+              "timeStart": "5:15 pm",
+              "timeEnd": "6:00 pm",
+              "tracks": ["Day1"],
+              "id": "8"
+            }
+          ]
+        }
+      ]
+    }
   ],
 
   "speakers": [
@@ -527,3 +655,4 @@
     }
   ]
 }
+

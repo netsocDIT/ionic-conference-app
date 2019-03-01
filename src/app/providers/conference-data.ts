@@ -61,6 +61,36 @@ export class ConferenceData {
       });
     });
 
+    this.data.competition.forEach((day: any) => {
+      // loop through each timeline group in the day
+      day.groups.forEach((group: any) => {
+        // loop through each session in the timeline group
+        group.sessions.forEach((session: any) => {
+          session.speakers = [];
+          if (session.speakerNames) {
+            session.speakerNames.forEach((speakerName: any) => {
+              const judge = this.data.judges.find(
+                (s: any) => s.name === speakerName
+              );
+              if (judge) {
+                session.speakers.push(judge);
+                judge.sessions = judge.sessions || [];
+                judge.sessions.push(session);
+              }
+            });
+          }
+
+          if (session.tracks) {
+            session.tracks.forEach((track: any) => {
+              if (this.data.tracks.indexOf(track) < 0) {
+                this.data.tracks.push(track);
+              }
+            });
+          }
+        });
+      });
+    });
+
     return this.data;
   }
 
@@ -72,7 +102,7 @@ export class ConferenceData {
   ) {
     return this.load().pipe(
       map((data: any) => {
-        const day = data.schedule[dayIndex];
+        const day = data.competition[dayIndex];
         day.shownSessions = 0;
 
         queryText = queryText.toLowerCase().replace(/,|\.|-/g, ' ');
