@@ -23,6 +23,19 @@ const routes: Routes = [
         ]
       },
       {
+        path: 'competition',
+        children: [
+          {
+            path: '',
+            component: SchedulePage,
+          },
+          {
+            path: 'session/:sessionId',
+            loadChildren: '../session-detail/session-detail.module#SessionDetailModule'
+          }
+        ]
+      },
+      {
         path: 'speakers',
         children: [
           {

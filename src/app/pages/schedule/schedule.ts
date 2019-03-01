@@ -123,12 +123,13 @@ export class SchedulePage implements OnInit {
   
 
   async openSocial(network: string, fab: HTMLIonFabElement) {
-    const loading = await this.loadingCtrl.create({
-      message: `Posting to ${network}`,
-      duration: (Math.random() * 1000) + 500
-    });
-    await loading.present();
-    await loading.onWillDismiss();
-    fab.close();
+    if(network == "Facebook")
+    {
+      window.open("https://www.facebook.com/ditdancesoc/", '_system', 'location=yes');
+    }
+    else 
+    {
+      window.open("https://www.instagram.com/ditdanceinters2019/", '_system', 'location=yes');
+    }
   }
 }
