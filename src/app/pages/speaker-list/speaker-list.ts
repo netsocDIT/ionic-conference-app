@@ -66,6 +66,10 @@ export class SpeakerListPage {
     await actionSheet.present();
   }
 
+  mentionSpeakerTwitter(speaker: any) {
+    window.open(speaker.facebook, '_system', 'location=yes');
+}
+
   async openContact(speaker: any) {
     const mode = 'ios'; // this.config.get('mode');
 
