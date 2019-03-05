@@ -383,7 +383,7 @@
             {
               "name": "Irish Dance",
               "location": "National Stadium",
-              "description": " ",
+              "description": " 9:00 - DCU, 9:07 UCC, 9:14 Maynooth, 9:21 NUIG, 9:28 Trinity, 9:35 UCD, 9:45 Change Judges  ",
               "speakerNames": ["Jack Quinn", "Zoe Talbot", "Meadhbh Kennedy" ],
               "timeStart": "9:00 am",
               "timeEnd": "10:00 am",
@@ -398,7 +398,7 @@
             {
               "name": "Contemporary Dance",
               "location": "National Stadium",
-              "description": " ",
+              "description": "9:30 Contemporary category crews to be in backstage area, 10:00 NUIG, 10:10 Trinity, 10:20 DCU, 10:30 RCSI, 10:40 CIT, 10:50 UCD, 11:00  Maynooth, 11:10 UCC, 11:20 TU Dublin, 11: 30 Change Judges",
               "speakerNames": ["Neil O'Brien", "Simone O'Toole", "Liv O'Donoghue" ],
               "timeStart": "10:00 am",
               "timeEnd": "11:45 am",
@@ -413,7 +413,7 @@
             {
               "name": "Jazz Dance",
               "location": "National Stadium",
-              "description": " ",
+              "description": "11:15 Jazz category crews to be in backstage area, 11:45 RCSI, 11:54 UCC, 12:03 Mary I, 12:12 Maynooth, 12:21 NUIG, 12:30 Trinity, 12:39 UCD, 12:48 DCU",
               "speakerNames": ["Bernadette O'Rourke", "Tara O'Halloran", "Neil O'Brien" ],
               "timeStart": "11:45 am",
               "timeEnd": "1:00 pm",
@@ -431,51 +431,51 @@
               "description": " ",
               "speakerNames": [],
               "timeStart": "1:00 pm",
-              "timeEnd": "1:45 pm",
+              "timeEnd": "1:30 pm",
               "tracks": ["Day1"],
               "id": "5"
             }
           ]
         },
         {
-          "time": "1:45 pm",
+          "time": "1:30 pm",
           "sessions": [
             {
               "name": "Hip Hop",
               "location": "National Stadium",
-              "description": " ",
+              "description": "13:15  Hip Hop category crews to be in backstage area, 13:30 CIT, 13:39 UCC, 13:48 Sligo IT, 13:57 Maynooth, 14:06 UL, 14:15 RCSI, 14:24 UCD,  14:33 NUIG, 14:42 Trinity,  14:51 TU Dublin, 15:00 DCU ",
               "speakerNames": ["Ian Harris", "Jessie O'Reilly", "Alex O'Neil" ],
-              "timeStart": "1:45 pm",
-              "timeEnd": "3:45 pm",
+              "timeStart": "1:30 pm",
+              "timeEnd": "3:00 pm",
               "tracks": ["Day1"],
               "id": "6"
             }
           ]
         },
         {
-          "time": "3:45 pm",
+          "time": "3:00 pm",
           "sessions": [
             {
               "name": "Mixed Piece",
               "location": "National Stadium",
-              "description": " ",
+              "description": " 15:00  Mixed Piece  category crews to be in backstage area, 15:30 Mary I, 15:40 RCSI, 15:50 DCU, 16:00 CIT, 16:10 Maynooth, 16:20 UCD, 16:30 UCC, 16:40 Trinity",
               "speakerNames": [],
-              "timeStart": "3:45 pm",
-              "timeEnd": "5:15 pm",
+              "timeStart": "3:00 pm",
+              "timeEnd": "5:00 pm",
               "tracks": ["Day1"],
               "id": "7"
             }
           ]
         },
         {
-          "time": "5:15 pm",
+          "time": "5:00 pm",
           "sessions": [
             {
               "name": "Results",
               "location": "National Stadium",
               "description": " ",
               "speakerNames": [],
-              "timeStart": "5:15 pm",
+              "timeStart": "5:00 pm",
               "timeEnd": "6:00 pm",
               "tracks": ["Day1"],
               "id": "8"
